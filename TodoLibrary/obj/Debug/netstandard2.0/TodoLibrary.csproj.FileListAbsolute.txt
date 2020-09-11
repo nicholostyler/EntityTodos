@@ -1,9 +1,0 @@
-C:\Users\Nicholos\source\repos\EntityTodos\TodoLibrary\bin\Debug\netstandard2.0\TodoLibrary.deps.json
-C:\Users\Nicholos\source\repos\EntityTodos\TodoLibrary\bin\Debug\netstandard2.0\TodoLibrary.dll
-C:\Users\Nicholos\source\repos\EntityTodos\TodoLibrary\obj\Debug\netstandard2.0\TodoLibrary.csprojAssemblyReference.cache
-C:\Users\Nicholos\source\repos\EntityTodos\TodoLibrary\obj\Debug\netstandard2.0\TodoLibrary.AssemblyInfoInputs.cache
-C:\Users\Nicholos\source\repos\EntityTodos\TodoLibrary\obj\Debug\netstandard2.0\TodoLibrary.AssemblyInfo.cs
-C:\Users\Nicholos\source\repos\EntityTodos\TodoLibrary\bin\Debug\netstandard2.0\TodoLibrary.pdb
-C:\Users\Nicholos\source\repos\EntityTodos\TodoLibrary\obj\Debug\netstandard2.0\TodoLibrary.csproj.CoreCompileInputs.cache
-C:\Users\Nicholos\source\repos\EntityTodos\TodoLibrary\obj\Debug\netstandard2.0\TodoLibrary.dll
-C:\Users\Nicholos\source\repos\EntityTodos\TodoLibrary\obj\Debug\netstandard2.0\TodoLibrary.pdb
